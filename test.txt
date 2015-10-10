@@ -1,0 +1,8 @@
+git init
+git config --list
+git add test.txt
+git rm --cached test.txt
+git commit -m "message"
+git diff
+git commit -am "message"
+git rm tempfile.txt
