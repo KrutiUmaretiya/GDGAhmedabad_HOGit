@@ -6,3 +6,5 @@ git commit -m "message"
 git diff
 git commit -am "message"
 git rm tempfile.txt
+git remote add origin https://github.com/KrutiUmaretiya/Kruti_GDGHOW_GIT_1.git
+git push -u origin master
